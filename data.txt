@@ -1,0 +1,3 @@
+Name: manasa
+Age: 34
+City: jadcherla
